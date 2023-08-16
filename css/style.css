@@ -1,0 +1,25 @@
+.container{
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+body{
+    background-color: darkturquoise;
+    background-image: url("../img/pastel-pink-alcohol-ink-background-with-gold-glitter-elements-free-vector.jpg");
+    background-image: no-repeat;
+    background-size: cover;
+}
+
+footer{
+   text-align: center;
+   color: black;
+    height:60px;
+    background-color:pink;
+    margin: 5%;
+}
+
+
+footer p {
+    padding-top: 2%;
+}
+
